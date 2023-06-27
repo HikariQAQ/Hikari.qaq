@@ -1,5 +1,7 @@
 # Fuse Core Theme for Jekyll - Settings
 # https://github.com/tsjensen/fuse-core
+url: https://HikariQAQ.github.io/hikari.qaq/
+baseurl: '/hikari.qaq'
 
 markdown: kramdown
 permalink: pretty
