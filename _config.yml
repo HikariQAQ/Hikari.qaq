@@ -108,7 +108,7 @@ links:
       show: false
       href: https://vk.com/YOUR_VK_USERNAME
       icon: fab fa-vk
-  #- instagram:
+  - instagram:
       name: Instagram
       show: false
       href: https://instagram.com/YOUR_INSTAGRAM_USERNAME
@@ -173,7 +173,7 @@ links:
       show: true
       href: mailto:HikariQAQ@outlook.com
       icon: fas fa-envelope
- #- publickey:
+ - publickey:
       name: PGP Key
       show: false
       href: https://pastebin.com/raw/YOUR_PUBLIC_KEY
