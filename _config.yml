@@ -122,7 +122,7 @@ links:
   - steam:
       name: Steam
       show: false
-      href: https://steamcommunity.com/id/name4045/
+      href: https://steamcommunity.com/id/USER_NAME
       icon: fab fa-steam
   - soundcloud:
       name: Soundcloud
