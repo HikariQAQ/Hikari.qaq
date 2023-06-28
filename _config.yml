@@ -16,7 +16,7 @@ sass:
 # Main Headline, name required, subtitle optional
 name: HikariQAQ
 #subtitle:
-subtitle: 是一只一事无成的废物
+subtitle: 是一只一事无成的废物qwq
 
 # Title attribute of HTML Page, uses 'name' from above if empty
 title: Fuse Core
@@ -68,11 +68,6 @@ avatar: "https://avatars0.githubusercontent.com/u/8897534"
 # All the social media and other sites that we want to link to. The 'show' flag determines if the link is shown.
 # The order of this list controls the order of the links on the page. Feel free to add.
 links:
-  - MM aM aM a M a M a M a MastMastM a MastM a MastM a M a:
-      name: Mastodon
-      show: true
-      href: https://o3o.ca/@Hikari
-      icon: <font-awesome-icon :icon="['fab', 'mastodon']" />
   - linkedin:
       name: LinkedIn
       show: false
@@ -88,6 +83,11 @@ links:
       show: true
       href: https://twitter.com/Hikari_Ciallo
       icon: fab fa-twitter
+    - Mastodon:
+      name: Mastodon
+      show: true
+      href: https://o3o.ca/@Hikari
+      icon: fab fa-mastodon
   - weibo:
       name: 微博
       show: false
