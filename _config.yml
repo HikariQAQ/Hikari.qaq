@@ -68,17 +68,17 @@ avatar: "https://avatars0.githubusercontent.com/u/8897534"
 # All the social media and other sites that we want to link to. The 'show' flag determines if the link is shown.
 # The order of this list controls the order of the links on the page. Feel free to add.
 links:
-  #- xing:
+  - xing:
       name: Xing
       show: false
       href: https://www.xing.com/profile/YOUR_XING_USERNAME/
       icon: fab fa-xing
-  #- linkedin:
+  - linkedin:
       name: LinkedIn
       show: false
       href: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME/
       icon: fab fa-linkedin
-  #- googleplus:
+  - googleplus:
       name: Google+
       show: false
       href: https://plus.google.com/+YOUR_GOOGLEPLUS_USERNAME
@@ -88,12 +88,12 @@ links:
       show: true
       href: https://twitter.com/YOUR_TWITTER_USERNAME
       icon: fab fa-twitter
-  #- weibo:
+  - weibo:
       name: 微博
-      show: true
+      show: false
       href: https://weibo.com/YOUR_WEIBO_USERNAME
       icon: fab fa-weibo
-  #- vine:
+  - vine:
       name: Vine
       show: false
       href: https://vine.co/YOUR_VINE_USERNAME
@@ -105,7 +105,7 @@ links:
       icon: fab fa-facebook
   #- vkontakte:
       name: ВКонтакте
-      show: true
+      show: false
       href: https://vk.com/YOUR_VK_USERNAME
       icon: fab fa-vk
   #- instagram:
@@ -175,7 +175,7 @@ links:
       icon: fas fa-envelope
  #- publickey:
       name: PGP Key
-      show: true
+      show: false
       href: https://pastebin.com/raw/YOUR_PUBLIC_KEY
       icon: fas fa-key
 
