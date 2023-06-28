@@ -72,7 +72,7 @@ links:
       name: Mastodon
       show: true
       href: https://o3o.ca/@Hikari
-      icon: <font-awesome-icon :icon="['fab', 'mastodon']" />
+      icon: <i class="fa-brands fa-mastodon"></i>
   - linkedin:
       name: LinkedIn
       show: false
