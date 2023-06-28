@@ -14,9 +14,9 @@ sass:
 # When modifying this file, take care to preserve the indentation. This is YAML ...
 
 # Main Headline, name required, subtitle optional
-name: HikariQAQ
+name: Fuse Core
 #subtitle:
-subtitle: 是一只一事无成的废物qwq
+subtitle: Frontend Developer
 
 # Title attribute of HTML Page, uses 'name' from above if empty
 title: Fuse Core
@@ -68,6 +68,11 @@ avatar: "https://avatars0.githubusercontent.com/u/8897534"
 # All the social media and other sites that we want to link to. The 'show' flag determines if the link is shown.
 # The order of this list controls the order of the links on the page. Feel free to add.
 links:
+  - github:
+      name: GitHub
+      show: true
+      href: https://github.com/HikariQAQ
+      icon: fab fa-github
   - linkedin:
       name: LinkedIn
       show: false
@@ -81,13 +86,8 @@ links:
   - twitter:
       name: Twitter
       show: true
-      href: https://twitter.com/Hikari_Ciallo
+      href: https://twitter.com/YOUR_TWITTER_USERNAME
       icon: fab fa-twitter
-    - Mastodon:
-      name: Mastodon
-      show: true
-      href: https://o3o.ca/@Hikari
-      icon: fab fa-mastodon
   - weibo:
       name: 微博
       show: false
@@ -103,11 +103,6 @@ links:
       show: false
       href: https://facebook.com/YOUR_FB_USERNAME
       icon: fab fa-facebook
-  - vkontakte:
-      name: ВКонтакте
-      show: false
-      href: https://vk.com/YOUR_VK_USERNAME
-      icon: fab fa-vk
   - instagram:
       name: Instagram
       show: false
@@ -121,8 +116,12 @@ links:
   - steam:
       name: Steam
       show: true
-      href: https://steamcommunity.com/id/name4045/
+      href: https://steamcommunity.com/id/name4045
       icon: fab fa-steam
+  - mastodon:
+      name: mastodon
+      show: true
+      href: https://o3o.ca/@Hikari
   - soundcloud:
       name: Soundcloud
       show: false
@@ -133,11 +132,6 @@ links:
       show: false
       href: http://www.last.fm/user/YOUR_LASTFM_USERNAME
       icon: fab fa-lastfm
-  - github:
-      name: GitHub
-      show: true
-      href: https://github.com/HikariQAQ
-      icon: fab fa-github
   - codepen:
       name: CodePen
       show: false
@@ -153,7 +147,7 @@ links:
       show: false
       href: https://reddit.com/user/YOUR_REDDIT_USERNAME
       icon: fab fa-reddit
-  - medium:
+   - medium:
       name: Medium
       show: false
       href: https://medium.com/@YOUR_MEDIUM_USERNAME
