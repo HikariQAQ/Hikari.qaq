@@ -68,26 +68,46 @@ avatar: "https://avatars0.githubusercontent.com/u/8897534"
 # All the social media and other sites that we want to link to. The 'show' flag determines if the link is shown.
 # The order of this list controls the order of the links on the page. Feel free to add.
 links:
-  -   github:
-      name: GitHub
-      show: true
-      href: https://github.com/HikariQAQ
-      icon: fab fa-github
-  - linkedin:
+   - linkedin:
       name: LinkedIn
       show: false
       href: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME/
       icon: fab fa-linkedin
-  - googleplus:
+   - googleplus:
       name: Google+
       show: false
       href: https://plus.google.com/+YOUR_GOOGLEPLUS_USERNAME
       icon: fab fa-google-plus
-  -  twitter:
+   - github:
+      name: GitHub
+      show: true
+      href: https://github.com/HikariQAQ
+      icon: fab fa-github
+   -  twitter:
       name: Twitter
       show: true
       href: https://twitter.com/Hikari_Ciallo
       icon: fab fa-twitter
+     - steam:
+      name: Steam
+      show: true
+      href: https://steamcommunity.com/id/name4045/
+      icon: fab fa-steam
+     - Mastodon:
+      name: Mastodon
+      show: true
+      href: https://o3o.ca/@Hikari
+      icon: fab fa-mastodon
+      - email:
+      name: Email
+      show: true
+      href: mailto:HikariQAQ@outlook.com
+      icon: fas fa-envelope
+     - blog:
+      name: Blog
+      show: true
+      href: https://hikari-233.xlog.app/
+      icon: fas fa-book-open
   - weibo:
       name: 微博
       show: false
@@ -118,11 +138,6 @@ links:
       show: false
       href: https://flickr.com/photos/YOUR_FLICKR_USERNAME
       icon: fab fa-flickr
-  - steam:
-      name: Steam
-      show: true
-      href: https://steamcommunity.com/id/name4045/
-      icon: fab fa-steam
   - soundcloud:
       name: Soundcloud
       show: false
@@ -133,11 +148,6 @@ links:
       show: false
       href: http://www.last.fm/user/YOUR_LASTFM_USERNAME
       icon: fab fa-lastfm
-  -   Mastodon:
-      name: Mastodon
-      show: true
-      href: https://o3o.ca/@Hikari
-      icon: fab fa-mastodon
   - codepen:
       name: CodePen
       show: false
@@ -163,17 +173,7 @@ links:
       show: false
       href: https://YOUR_TUMBLR_USERNAME.tumblr.com/
       icon: fab fa-tumblr
-  - blog:
-      name: Blog
-      show: true
-      href: https://hikari-233.xlog.app/
-      icon: fas fa-book-open
-  - email:
-      name: Email
-      show: true
-      href: mailto:HikariQAQ@outlook.com
-      icon: fas fa-envelope
- #- publickey:
+  - publickey:
       name: PGP Key
       show: false
       href: https://pastebin.com/raw/YOUR_PUBLIC_KEY
