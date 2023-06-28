@@ -14,9 +14,9 @@ sass:
 # When modifying this file, take care to preserve the indentation. This is YAML ...
 
 # Main Headline, name required, subtitle optional
-name: HikariQAQ
+name: Fuse Core
 #subtitle:
-subtitle: 一事无成的废物qwq
+subtitle: Frontend Developer
 
 # Title attribute of HTML Page, uses 'name' from above if empty
 title: Fuse Core
@@ -68,11 +68,11 @@ avatar: "https://avatars0.githubusercontent.com/u/8897534"
 # All the social media and other sites that we want to link to. The 'show' flag determines if the link is shown.
 # The order of this list controls the order of the links on the page. Feel free to add.
 links:
-  -   github:
-      name: GitHub
+  - MM aM aM a M a M a M a MastMastM a MastM a MastM a M a:
+      name: Mastodon
       show: true
-      href: https://github.com/HikariQAQ
-      icon: fab fa-github
+      href: https://o3o.ca/@Hikari
+      icon: fab fa-mastodon
   - linkedin:
       name: LinkedIn
       show: false
@@ -83,7 +83,7 @@ links:
       show: false
       href: https://plus.google.com/+YOUR_GOOGLEPLUS_USERNAME
       icon: fab fa-google-plus
-  -  twitter:
+  - twitter:
       name: Twitter
       show: true
       href: https://twitter.com/Hikari_Ciallo
@@ -108,7 +108,7 @@ links:
       show: false
       href: https://vk.com/YOUR_VK_USERNAME
       icon: fab fa-vk
-  - instagram:
+  #- instagram:
       name: Instagram
       show: false
       href: https://instagram.com/YOUR_INSTAGRAM_USERNAME
@@ -133,11 +133,11 @@ links:
       show: false
       href: http://www.last.fm/user/YOUR_LASTFM_USERNAME
       icon: fab fa-lastfm
-  -   Mastodon:
-      name: Mastodon
+  - github:
+      name: GitHub
       show: true
-      href: https://o3o.ca/@Hikari
-      icon: fab fa-mastodon
+      href: https://github.com/HikariQAQ
+      icon: fab fa-github
   - codepen:
       name: CodePen
       show: false
