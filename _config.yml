@@ -14,12 +14,12 @@ sass:
 # When modifying this file, take care to preserve the indentation. This is YAML ...
 
 # Main Headline, name required, subtitle optional
-name: HikariQAQ
+name: Fuse Core
 #subtitle:
-subtitle: 只是一只一事无成的废物（瘫
+subtitle: Frontend Developer
 
 # Title attribute of HTML Page, uses 'name' from above if empty
-title: HikariQAQ's profile
+title: Fuse Core
 
 # Information for web crawlers / Google, all of them optional
 # 'description' and 'keywords' simply set the corresponding meta tags,
@@ -68,7 +68,7 @@ avatar: "https://avatars0.githubusercontent.com/u/8897534"
 # All the social media and other sites that we want to link to. The 'show' flag determines if the link is shown.
 # The order of this list controls the order of the links on the page. Feel free to add.
 links:
-  - Mastodon:
+  - MM aM aM a M a M a M a MastMastM a MastM a MastM a M a:
       name: Mastodon
       show: true
       href: https://o3o.ca/@Hikari
@@ -108,7 +108,7 @@ links:
       show: false
       href: https://vk.com/YOUR_VK_USERNAME
       icon: fab fa-vk
-  - instagram:
+  #- instagram:
       name: Instagram
       show: false
       href: https://instagram.com/YOUR_INSTAGRAM_USERNAME
@@ -173,7 +173,7 @@ links:
       show: true
       href: mailto:HikariQAQ@outlook.com
       icon: fas fa-envelope
- - publickey:
+ #- publickey:
       name: PGP Key
       show: false
       href: https://pastebin.com/raw/YOUR_PUBLIC_KEY
