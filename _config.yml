@@ -19,7 +19,7 @@ name: HikariQAQ
 subtitle: 只是一只一事无成的废物qwq
 
 # Title attribute of HTML Page, uses 'name' from above if empty
-title: HikariQAQ's site
+title: Hikari's site
 
 # Information for web crawlers / Google, all of them optional
 # 'description' and 'keywords' simply set the corresponding meta tags,
@@ -45,8 +45,8 @@ baseurl: '/fuse-core'
 #ga:
 ga:
     account: 'UA-120960520-1'
-    cookieconsent: true
-    anonymizeip: true
+    cookieconsent: false
+    anonymizeip: false
 
 # Plausible.io Analytics (alternative to Google Analytics that does not need cookies -> no cookie consent required)
 # A config setting is required in plausible to enable tracking of the outbound links. Details described here:
@@ -68,7 +68,7 @@ avatar: "https://avatars0.githubusercontent.com/u/8897534"
 # All the social media and other sites that we want to link to. The 'show' flag determines if the link is shown.
 # The order of this list controls the order of the links on the page. Feel free to add.
 links:
-  - MM aM aM a M a M a M a MastMastM a MastM a MastM a M a:
+  - Mastodon:
       name: Mastodon
       show: true
       href: https://o3o.ca/@Hikari
