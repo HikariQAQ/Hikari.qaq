@@ -68,11 +68,11 @@ avatar: "https://avatars0.githubusercontent.com/u/8897534"
 # All the social media and other sites that we want to link to. The 'show' flag determines if the link is shown.
 # The order of this list controls the order of the links on the page. Feel free to add.
 links:
-  - MM aM aM a M a M a M a MastMastM a MastM a MastM a M a:
-      name: Mastodon
+  -   github:
+      name: GitHub
       show: true
-      href: https://o3o.ca/@Hikari
-      icon: fab fa-mastodon
+      href: https://github.com/HikariQAQ
+      icon: fab fa-github
   - linkedin:
       name: LinkedIn
       show: false
@@ -83,7 +83,7 @@ links:
       show: false
       href: https://plus.google.com/+YOUR_GOOGLEPLUS_USERNAME
       icon: fab fa-google-plus
-  - twitter:
+  -  twitter:
       name: Twitter
       show: true
       href: https://twitter.com/Hikari_Ciallo
@@ -133,11 +133,11 @@ links:
       show: false
       href: http://www.last.fm/user/YOUR_LASTFM_USERNAME
       icon: fab fa-lastfm
-  - github:
-      name: GitHub
+  -   Mastodon:
+      name: Mastodon
       show: true
-      href: https://github.com/HikariQAQ
-      icon: fab fa-github
+      href: https://o3o.ca/@Hikari
+      icon: fab fa-mastodon
   - codepen:
       name: CodePen
       show: false
