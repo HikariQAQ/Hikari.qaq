@@ -14,9 +14,9 @@ sass:
 # When modifying this file, take care to preserve the indentation. This is YAML ...
 
 # Main Headline, name required, subtitle optional
-name: Fuse Core
+name: HikariQAQ
 #subtitle:
-subtitle: Frontend Developer
+subtitle: 一事无成的废物qwq
 
 # Title attribute of HTML Page, uses 'name' from above if empty
 title: Fuse Core
@@ -68,7 +68,7 @@ avatar: "https://avatars0.githubusercontent.com/u/8897534"
 # All the social media and other sites that we want to link to. The 'show' flag determines if the link is shown.
 # The order of this list controls the order of the links on the page. Feel free to add.
 links:
-  - github:
+  -   github:
       name: GitHub
       show: true
       href: https://github.com/HikariQAQ
@@ -83,10 +83,10 @@ links:
       show: false
       href: https://plus.google.com/+YOUR_GOOGLEPLUS_USERNAME
       icon: fab fa-google-plus
-  - twitter:
+  -  twitter:
       name: Twitter
       show: true
-      href: https://twitter.com/YOUR_TWITTER_USERNAME
+      href: https://twitter.com/Hikari_Ciallo
       icon: fab fa-twitter
   - weibo:
       name: 微博
@@ -103,6 +103,11 @@ links:
       show: false
       href: https://facebook.com/YOUR_FB_USERNAME
       icon: fab fa-facebook
+  - vkontakte:
+      name: ВКонтакте
+      show: false
+      href: https://vk.com/YOUR_VK_USERNAME
+      icon: fab fa-vk
   - instagram:
       name: Instagram
       show: false
@@ -116,12 +121,8 @@ links:
   - steam:
       name: Steam
       show: true
-      href: https://steamcommunity.com/id/name4045
+      href: https://steamcommunity.com/id/name4045/
       icon: fab fa-steam
-  - mastodon:
-      name: mastodon
-      show: true
-      href: https://o3o.ca/@Hikari
   - soundcloud:
       name: Soundcloud
       show: false
@@ -132,6 +133,11 @@ links:
       show: false
       href: http://www.last.fm/user/YOUR_LASTFM_USERNAME
       icon: fab fa-lastfm
+  -   Mastodon:
+      name: Mastodon
+      show: true
+      href: https://o3o.ca/@Hikari
+      icon: fab fa-mastodon
   - codepen:
       name: CodePen
       show: false
@@ -147,7 +153,7 @@ links:
       show: false
       href: https://reddit.com/user/YOUR_REDDIT_USERNAME
       icon: fab fa-reddit
-   - medium:
+  - medium:
       name: Medium
       show: false
       href: https://medium.com/@YOUR_MEDIUM_USERNAME
@@ -167,7 +173,7 @@ links:
       show: true
       href: mailto:HikariQAQ@outlook.com
       icon: fas fa-envelope
- - publickey:
+ #- publickey:
       name: PGP Key
       show: false
       href: https://pastebin.com/raw/YOUR_PUBLIC_KEY
