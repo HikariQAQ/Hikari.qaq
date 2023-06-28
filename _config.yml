@@ -108,7 +108,7 @@ links:
       show: false
       href: https://vk.com/YOUR_VK_USERNAME
       icon: fab fa-vk
-  #- instagram:
+  - instagram:
       name: Instagram
       show: false
       href: https://instagram.com/YOUR_INSTAGRAM_USERNAME
