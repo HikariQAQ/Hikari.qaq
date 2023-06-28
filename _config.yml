@@ -14,9 +14,9 @@ sass:
 # When modifying this file, take care to preserve the indentation. This is YAML ...
 
 # Main Headline, name required, subtitle optional
-name: Fuse Core
+name: --Hikari的个人主页--
 #subtitle:
-subtitle: Frontend Developer
+subtitle: 一个一事无成的废物qwq
 
 # Title attribute of HTML Page, uses 'name' from above if empty
 title: Fuse Core
