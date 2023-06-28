@@ -71,9 +71,9 @@ links:
    - github:
       name: GitHub
       show: true
-      href: https://github.com/HikariQAQ
+      href: https://github.com/HikariQAQ/
       icon: fab fa-github
-   -  twitter:
+   - twitter:
       name: Twitter
       show: true
       href: https://twitter.com/Hikari_Ciallo
