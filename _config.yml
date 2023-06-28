@@ -68,17 +68,17 @@ avatar: "https://avatars0.githubusercontent.com/u/8897534"
 # All the social media and other sites that we want to link to. The 'show' flag determines if the link is shown.
 # The order of this list controls the order of the links on the page. Feel free to add.
 links:
-  - xing:
+  #- xing:
       name: Xing
       show: false
       href: https://www.xing.com/profile/YOUR_XING_USERNAME/
       icon: fab fa-xing
-  - linkedin:
+  #- linkedin:
       name: LinkedIn
       show: false
       href: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME/
       icon: fab fa-linkedin
-  - googleplus:
+  #- googleplus:
       name: Google+
       show: false
       href: https://plus.google.com/+YOUR_GOOGLEPLUS_USERNAME
@@ -88,12 +88,12 @@ links:
       show: true
       href: https://twitter.com/YOUR_TWITTER_USERNAME
       icon: fab fa-twitter
-  - weibo:
+  #- weibo:
       name: 微博
       show: true
       href: https://weibo.com/YOUR_WEIBO_USERNAME
       icon: fab fa-weibo
-  - vine:
+  #- vine:
       name: Vine
       show: false
       href: https://vine.co/YOUR_VINE_USERNAME
@@ -103,17 +103,17 @@ links:
       show: false
       href: https://facebook.com/YOUR_FB_USERNAME
       icon: fab fa-facebook
-  - vkontakte:
+  #- vkontakte:
       name: ВКонтакте
       show: true
       href: https://vk.com/YOUR_VK_USERNAME
       icon: fab fa-vk
-  - instagram:
+  #- instagram:
       name: Instagram
       show: false
       href: https://instagram.com/YOUR_INSTAGRAM_USERNAME
       icon: fab fa-instagram
-  - flickr:
+  #- flickr:
       name: Flickr
       show: false
       href: https://flickr.com/photos/YOUR_FLICKR_USERNAME
@@ -123,12 +123,12 @@ links:
       show: false
       href: http://steamcommunity.com/id/YOUR_STEAM_CUSTOM_ID
       icon: fab fa-steam
-  - soundcloud:
+  #- soundcloud:
       name: Soundcloud
       show: false
       href: https://soundcloud.com/YOUR_SOUNDCLOUD_USERNAME
       icon: fab fa-soundcloud
-  - lastfm:
+ # - lastfm:
       name: Last.fm
       show: false
       href: http://www.last.fm/user/YOUR_LASTFM_USERNAME
@@ -138,27 +138,27 @@ links:
       show: true
       href: https://github.com/tsjensen
       icon: fab fa-github
-  - codepen:
+  #- codepen:
       name: CodePen
       show: false
       href: https://codepen.io/YOUR_CODEPEN_USERNAME
       icon: fab fa-codepen
-  - stackoverflow:
+  #- stackoverflow:
       name: Stack Overflow
       show: false
       href: https://stackoverflow.com/users/YOUR_SO_USERNAME/
       icon: fab fa-stack-overflow
-  - reddit:
+  #- reddit:
       name: Reddit
       show: false
       href: https://reddit.com/user/YOUR_REDDIT_USERNAME
       icon: fab fa-reddit
-  - medium:
+ # - medium:
       name: Medium
       show: false
       href: https://medium.com/@YOUR_MEDIUM_USERNAME
       icon: fab fa-medium
-  - tumblr:
+  #- tumblr:
       name: Tumblr
       show: false
       href: https://YOUR_TUMBLR_USERNAME.tumblr.com/
@@ -173,7 +173,7 @@ links:
       show: true
       href: mailto:jonathan.doe@host.domain
       icon: fas fa-envelope
-  - publickey:
+ #- publickey:
       name: PGP Key
       show: true
       href: https://pastebin.com/raw/YOUR_PUBLIC_KEY
